@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import tempfile
 import os
 
