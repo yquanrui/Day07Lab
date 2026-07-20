@@ -1,0 +1,471 @@
+{
+  "meta": {
+    "resume_path": "strong_resume.pdf",
+    "job_path": "pasted_job_description",
+    "degree": "RTIS",
+    "model": "ollama/gemma3:4b",
+    "generated_at": "2026-07-20T15:02:30"
+  },
+  "resume_profile": {
+    "name": "ALEX TAN MING WEI",
+    "contact": {
+      "email": "alex.tan@email.com",
+      "phone": "+65 9123 4567",
+      "linkedin": "linkedin.com/in/alextan",
+      "github": "github.com/alextan",
+      "portfolio": ""
+    },
+    "summary": "Systems-oriented RTIS graduate with hands-on experience building real-time simulation systems, REST APIs, and containerised infrastructure tools.",
+    "education": [
+      {
+        "school": "DigiPen Institute of Technology Singapore",
+        "degree": "Bachelor of Science in Real-Time Interactive Simulation (RTIS)",
+        "graduation_date": "May 2026",
+        "courses": [
+          "Operating Systems",
+          "Computer Networks",
+          "Distributed Systems",
+          "Computer Graphics",
+          "Algorithms & Data Structures"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Distributed Task Scheduler",
+        "date": "Aug 2025 ? Dec 2025",
+        "bullets": [
+          "Designed a Python-based distributed task scheduler using Redis and Docker that reduced job processing time by 40%, handling 500+ concurrent tasks.",
+          "Implemented RESTful APIs with FastAPI and deployed on AWS ECS using Terraform, achieving 99.9% uptime over a 3-month period.",
+          "Automated CI/CD pipeline with GitHub Actions, cutting deployment time from 30 minutes to under 5 minutes."
+        ]
+      },
+      {
+        "title": "Real-Time Physics Engine",
+        "date": "Jan 2025 ? May 2025",
+        "bullets": [
+          "Built a real-time application loop in C++ with Vulkan rendering that sustained 60 fps on 500+ dynamic objects simultaneously.",
+          "Implemented spatial algorithms (AABB broad-phase, SAT narrow-phase) in C++, reducing collision computation time by 35%.",
+          "Deployed cross-platform on Windows and Linux using CMake."
+        ]
+      },
+      {
+        "title": "Linux Monitoring Dashboard",
+        "date": "Mar 2024 ? Jun 2024",
+        "bullets": [
+          "Developed a Prometheus + Grafana monitoring stack with Bash automation scripts that detected system anomalies 3x faster than manual log review.",
+          "Containerised the stack with Docker Compose; integrated Kubernetes Helm charts for scaling across 10-node clusters."
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "title": "Systems Engineering Intern",
+        "company": "Accenture Singapore",
+        "date": "May 2025 ? Aug 2025",
+        "bullets": [
+          "Automated infrastructure provisioning with Terraform and Ansible across AWS GCP environments, reducing manual setup time by 60%.",
+          "Wrote Python scripts to parse and validate Kubernetes pod logs, enabling the team to resolve incidents 50% faster."
+        ]
+      }
+    ],
+    "skills": {
+      "languages": [
+        "Python",
+        "C++",
+        "Go",
+        "Bash"
+      ],
+      "frameworks": [
+        "FastAPI",
+        "Pytest",
+        "gRPC"
+      ],
+      "tools": [
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Ansible",
+        "Prometheus",
+        "Grafana",
+        "GitHub Actions"
+      ],
+      "concepts": [
+        "REST API",
+        "microservices",
+        "CI/CD",
+        "distributed systems",
+        "TCP/IP",
+        "DNS"
+      ],
+      "platforms": [
+        "AWS",
+        "GCP",
+        "Linux"
+      ]
+    }
+  },
+  "jd_profile": {
+    "title": "Systems Engineer \u2014 Infrastructure & Platform",
+    "company": "Phillip Securities Pte Ltd",
+    "seniority": "Entry to Mid Level",
+    "employment_type": "Hybrid",
+    "location": "Singapore (Raffles Place)",
+    "years_experience": [],
+    "responsibilities": [
+      "Design and implement RESTful APIs and microservices using Python and Go.",
+      "Automate infrastructure provisioning with Terraform and Ansible.",
+      "Monitor system health using Prometheus, Grafana, and ELK stack.",
+      "Participate in on-call rotation and incident response.",
+      "Write technical documentation and runbooks.",
+      "Collaborate with software engineers, data engineers, and QA teams."
+    ],
+    "required_skills": [
+      "Python",
+      "Go",
+      "Linux operating systems",
+      "Bash",
+      "Docker",
+      "Kubernetes",
+      "TCP/IP",
+      "DNS",
+      "Load balancing",
+      "AWS, GCP, or Azure"
+    ],
+    "preferred_skills": [
+      "GitHub Actions, Jenkins, or equivalent",
+      "Terraform, Pulumi",
+      "Distributed systems and consensus algorithms",
+      "Financial systems or trading platforms",
+      "Prometheus, Grafana"
+    ]
+  },
+  "keyword_match": {
+    "present": [
+      {
+        "keyword": "Python",
+        "category": "language",
+        "found_in": "skills",
+        "exact_match": true
+      },
+      {
+        "keyword": "Go",
+        "category": "language",
+        "found_in": "skills",
+        "exact_match": true
+      },
+      {
+        "keyword": "Linux operating systems",
+        "category": "tool",
+        "found_in": "skills",
+        "exact_match": true
+      },
+      {
+        "keyword": "Bash",
+        "category": "tool",
+        "found_in": "skills",
+        "exact_match": true
+      },
+      {
+        "keyword": "Docker",
+        "category": "tool",
+        "found_in": "skills",
+        "exact_match": true
+      },
+      {
+        "keyword": "Kubernetes",
+        "category": "framework",
+        "found_in": "skills",
+        "exact_match": true
+      },
+      {
+        "keyword": "TCP/IP",
+        "category": "concept",
+        "found_in": "skills",
+        "exact_match": true
+      },
+      {
+        "keyword": "DNS",
+        "category": "concept",
+        "found_in": "skills",
+        "exact_match": true
+      },
+      {
+        "keyword": "RESTful APIs",
+        "category": "concept",
+        "found_in": "projects",
+        "exact_match": true
+      },
+      {
+        "keyword": "Terraform",
+        "category": "tool",
+        "found_in": "experience",
+        "exact_match": true
+      },
+      {
+        "keyword": "Ansible",
+        "category": "tool",
+        "found_in": "experience",
+        "exact_match": true
+      },
+      {
+        "keyword": "Prometheus",
+        "category": "tool",
+        "found_in": "skills",
+        "exact_match": true
+      },
+      {
+        "keyword": "Grafana",
+        "category": "tool",
+        "found_in": "skills",
+        "exact_match": true
+      }
+    ],
+    "missing": [
+      {
+        "keyword": "Go",
+        "category": "language",
+        "importance": "required",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD requires Go experience, but it's not listed in the resume."
+      },
+      {
+        "keyword": "Linux operating systems",
+        "category": "tool",
+        "importance": "required",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD requires Linux experience, but it's not listed in the resume."
+      },
+      {
+        "keyword": "Load balancing",
+        "category": "tool",
+        "importance": "required",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD requires load balancing experience, but it's not listed in the resume."
+      },
+      {
+        "keyword": "AWS, GCP, or Azure",
+        "category": "tool",
+        "importance": "required",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD requires experience with cloud platforms (AWS, GCP, or Azure), but it's not listed in the resume."
+      },
+      {
+        "keyword": "GitHub Actions, Jenkins, or equivalent",
+        "category": "tool",
+        "importance": "preferred",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD lists GitHub Actions as a preferred skill, but it's not listed in the resume."
+      },
+      {
+        "keyword": "Terraform, Pulumi",
+        "category": "tool",
+        "importance": "preferred",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD lists Terraform and Pulumi as preferred skills, but it's not listed in the resume."
+      },
+      {
+        "keyword": "Distributed systems and consensus algorithms",
+        "category": "concept",
+        "importance": "preferred",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD lists distributed systems as a preferred skill, but it's not listed in the resume."
+      },
+      {
+        "keyword": "Financial systems or trading platforms",
+        "category": "concept",
+        "importance": "preferred",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD lists financial systems as a preferred skill, but it's not listed in the resume."
+      }
+    ],
+    "keyword_match_score": 60
+  },
+  "bullets": {
+    "bullets": [
+      {
+        "text": "Designed a Python-based distributed task scheduler using Redis and Docker that reduced job processing time by 40%, handling 500+ concurrent tasks.",
+        "source_section": "projects",
+        "action_score": 4,
+        "technology_score": 4,
+        "impact_score": 4,
+        "bullet_score": 4.33,
+        "feedback": "Action could be stronger."
+      },
+      {
+        "text": "Implemented RESTful APIs with FastAPI and deployed on AWS ECS using Terraform, achieving 99.9% uptime over a 3-month period.",
+        "source_section": "projects",
+        "action_score": 3,
+        "technology_score": 4,
+        "impact_score": 3,
+        "bullet_score": 3.67,
+        "feedback": "Impact could be more specific."
+      },
+      {
+        "text": "Automated CI/CD pipeline with GitHub Actions, cutting deployment time from 30 minutes to under 5 minutes.",
+        "source_section": "projects",
+        "action_score": 4,
+        "technology_score": 3,
+        "impact_score": 4,
+        "bullet_score": 3.67,
+        "feedback": "Technology could be more specific."
+      },
+      {
+        "text": "Built a real-time application loop in C++ with Vulkan rendering that sustained 60 fps on 500+ dynamic objects simultaneously.",
+        "source_section": "projects",
+        "action_score": 4,
+        "technology_score": 5,
+        "impact_score": 2,
+        "bullet_score": 3.67,
+        "feedback": "Impact could be more specific."
+      },
+      {
+        "text": "Implemented spatial algorithms (AABB broad-phase, SAT narrow-phase) in C++, reducing collision computation time by 35%.",
+        "source_section": "projects",
+        "action_score": 4,
+        "technology_score": 4,
+        "impact_score": 4,
+        "bullet_score": 4.0,
+        "feedback": null
+      },
+      {
+        "text": "Deployed cross-platform on Windows and Linux using CMake.",
+        "source_section": "projects",
+        "action_score": 3,
+        "technology_score": 4,
+        "impact_score": 1,
+        "bullet_score": 3.0,
+        "feedback": "Impact could be more specific."
+      },
+      {
+        "text": "Developed a Prometheus + Grafana monitoring stack with Bash automation scripts that detected system anomalies 3x faster than manual log review.",
+        "source_section": "projects",
+        "action_score": 4,
+        "technology_score": 4,
+        "impact_score": 4,
+        "bullet_score": 4.0,
+        "feedback": null
+      },
+      {
+        "text": "Containerised the stack with Docker Compose; integrated Kubernetes Helm charts for scaling across 10-node clusters.",
+        "source_section": "projects",
+        "action_score": 3,
+        "technology_score": 5,
+        "impact_score": 2,
+        "bullet_score": 3.67,
+        "feedback": "Impact could be more specific."
+      },
+      {
+        "text": "Automated infrastructure provisioning with Terraform and Ansible across AWS GCP environments, reducing manual setup time by 60%.",
+        "source_section": "experience",
+        "action_score": 4,
+        "technology_score": 4,
+        "impact_score": 4,
+        "bullet_score": 4.0,
+        "feedback": null
+      },
+      {
+        "text": "Wrote Python scripts to parse and validate Kubernetes pod logs, enabling the team to resolve incidents 50% faster.",
+        "source_section": "experience",
+        "action_score": 3,
+        "technology_score": 4,
+        "impact_score": 4,
+        "bullet_score": 3.67,
+        "feedback": null
+      }
+    ],
+    "bullet_quality_avg": 3.83
+  },
+  "jargon": {
+    "flags": [
+      {
+        "resume_term": "RESTful APIs",
+        "jd_term": "RESTful APIs and microservices",
+        "issue_type": "synonym",
+        "explanation": "Both terms refer to the same architectural style for building networked applications."
+      },
+      {
+        "resume_term": "Terraform",
+        "jd_term": "Terraform, Pulumi",
+        "issue_type": "other",
+        "explanation": "Pulumi is a similar infrastructure-as-code tool. The terms are not synonymous."
+      },
+      {
+        "resume_term": "Linux operating systems",
+        "jd_term": "Linux operating systems",
+        "issue_type": "synonym",
+        "explanation": "Both refer to the same type of operating system."
+      },
+      {
+        "resume_term": "Prometheus, Grafana",
+        "jd_term": "Prometheus, Grafana",
+        "issue_type": "synonym",
+        "explanation": "Both are monitoring tools."
+      }
+    ],
+    "jargon_score": 20
+  },
+  "structure": {
+    "issues": [
+      {
+        "issue_type": "missing_section",
+        "section": "experience",
+        "description": "Missing experience section indicates potential issues with extracting work history data."
+      },
+      {
+        "issue_type": "inconsistent_dates",
+        "section": "projects",
+        "description": "Inconsistent date formats across projects (e.g., 'Aug 2025 ? Dec 2025') may cause parsing difficulties."
+      },
+      {
+        "issue_type": "inconsistent_dates",
+        "section": "education",
+        "description": "Inconsistent date format across education (e.g., 'May 2026' vs. 'Aug 2025 ? Dec 2025') may cause parsing difficulties."
+      },
+      {
+        "issue_type": "inconsistent_dates",
+        "section": "projects",
+        "description": "Inconsistent date formats across projects (e.g., 'Jan 2025 ? May 2025') may cause parsing difficulties."
+      }
+    ],
+    "structure_score": 75
+  },
+  "background_fit": {
+    "factors": [
+      {
+        "factor": "Programming Languages",
+        "alignment": "strong",
+        "assessment": "Candidate\u2019s skills align with the JD\u2019s requirements for Python and Go."
+      },
+      {
+        "factor": "Infrastructure Automation",
+        "alignment": "strong",
+        "assessment": "Experience with Terraform and Ansible aligns directly with the JD's automation needs."
+      },
+      {
+        "factor": "Monitoring Tools",
+        "alignment": "strong",
+        "assessment": "Skills in Prometheus, Grafana, and ELK stack match the JD\u2019s monitoring requirements."
+      },
+      {
+        "factor": "Containerization Technologies",
+        "alignment": "strong",
+        "assessment": "Experience with Docker and Kubernetes aligns with the JD's focus on containerized environments."
+      },
+      {
+        "factor": "Operating Systems",
+        "alignment": "strong",
+        "assessment": "Candidate\u2019s expertise in Linux operating systems matches the JD\u2019s requirement."
+      },
+      {
+        "factor": "Experience Level",
+        "alignment": "partial",
+        "assessment": "The candidate's experience aligns with the \u2018Entry to Mid Level\u2019 seniority level specified in the JD."
+      }
+    ],
+    "background_fit_score": 95
+  },
+  "overall_score": 48,
+  "passes_ats_threshold": false,
+  "summary": "Okay, here's a breakdown of the JSON data you provided, summarizing the key findings and recommendations for improving the resume based on this analysis:\n\n**Overall Assessment:** The overall score of 48 indicates that the resume needs significant improvement to fully align with the job description.  The `passes_ats_threshold` being false confirms this \u2013 the resume isn't likely to make it past an Applicant Tracking System (ATS) without substantial revisions.\n\n**Key Issues & Recommendations:**\n\n1. **Keyword Gaps (Highest Priority):**\n   * **\"Financial systems or trading platforms\":** This is a critical missing element. The JD explicitly lists this as a *preferred* skill, and the resume doesn\u2019t mention it at all.  **Action:** Add experience or skills related to financial systems, trading platforms, or relevant financial technologies (even if it's just exposure).\n   * **Keyword Match Score: 60%** - This highlights the significant gap in keyword alignment.\n\n2. **Bullet Point Weaknesses:** Several bullet points need strengthening:\n   * **Action Scores:**  Some bullets have low \"action\" scores (e.g., \u201cImplemented RESTful APIs\u2026\u201d).  Make sure each bullet starts with a strong action verb that clearly describes *what you did*.\n   * **Impact Scores:** Many bullets lack specific impact metrics. Quantify the results whenever possible (e.g., \u201cReduced latency by X%, improved user engagement by Y%\u201d).\n   * **Technology Specificity:**  Some bullets are too general (\u201cImplemented CI/CD pipeline\u2026\u201d). Be more precise about the tools and technologies used.\n\n3. **Structural Issues & Data Inconsistencies:**\n   * **Missing Sections:** The \u201cexperience\u201d section is missing, a major red flag. This needs to be added immediately.\n   * **Inconsistent Dates:**  The data contains several instances of inconsistent date formatting across the resume\u2019s sections (projects and education). This will cause parsing problems for ATS systems. Standardize all dates to a consistent format (e.g., MM/YYYY or Month YYYY).\n\n4. **Jargon & Synonyms:**\n   * The analysis identifies some common terms used in both the JD and the resume, indicating potential understanding. However, it\u2019s important to ensure consistent use of terminology throughout.\n\n5. **Background Fit \u2013 Strengths:**\n    *  The candidate's skills align strongly with several key areas of the job description: Programming Languages (Python & Go), Infrastructure Automation (Terraform & Ansible), Monitoring Tools (Prometheus, Grafana, ELK), Containerization Technologies (Docker & Kubernetes) and Operating Systems (Linux).\n\n**Specific Bullet Point Improvements (Examples):**\n\n* **Original:** \u201cDesigned a Python-based distributed task scheduler using Redis and Docker that reduced job processing time by 40%, handling 500+ concurrent tasks.\u201d\n   * **Revised:** \u201cDeveloped a high-throughput, distributed task scheduler in Python utilizing Redis and Docker to process 500+ concurrent jobs, resulting in a 40% reduction in job execution time.\u201d\n\n* **Original:** \u201cImplemented RESTful APIs with FastAPI and deployed on AWS ECS using Terraform\u2026\u201d\n    * **Revised:** \u201cDeveloped and deployed RESTful APIs using FastAPI and containerized them via AWS ECS, utilizing Terraform for infrastructure provisioning and achieving 99.9% uptime.\u201d\n\n\n**Recommendations for Next Steps:**\n\n1. **Prioritize Keyword Addition:** Immediately add the missing \"Financial systems or trading platforms\" skill to the resume\u2019s skills section.\n2. **Revise Bullet Points:**  Rewrite all bullet points using stronger action verbs, quantifying results, and specifying technologies more precisely.\n3. **Address Data Inconsistencies:** Standardize date formats across the entire resume.\n4. **Expand Experience Section:** Create a detailed experience section that aligns with the job description\u2019s requirements.\n\nTo help me refine this analysis further, could you tell me:\n\n*   What is the specific job description you are referring to? (Please provide the full text)\n*   Can you share the actual content of the resume itself?"
+}
